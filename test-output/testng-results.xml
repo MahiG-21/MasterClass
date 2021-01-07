@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="39024" started-at="2021-01-07T08:03:35Z" finished-at="2021-01-07T08:04:14Z">
+    <groups>
+    </groups>
+    <test name="myTests" duration-ms="39024" started-at="2021-01-07T08:03:35Z" finished-at="2021-01-07T08:04:14Z">
+      <class name="seleniumScripts.LoginPage">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:seleniumScripts.LoginPage@e6dfe1]" name="startbrowser" is-config="true" duration-ms="7540" started-at="2021-01-07T03:03:52Z" finished-at="2021-01-07T03:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="905" started-at="2021-01-07T03:04:00Z" data-provider="readData" finished-at="2021-01-07T03:04:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email2@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="702" started-at="2021-01-07T03:04:01Z" data-provider="readData" finished-at="2021-01-07T03:04:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email3@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="681" started-at="2021-01-07T03:04:01Z" data-provider="readData" finished-at="2021-01-07T03:04:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email4@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="641" started-at="2021-01-07T03:04:02Z" data-provider="readData" finished-at="2021-01-07T03:04:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email5@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="638" started-at="2021-01-07T03:04:03Z" data-provider="readData" finished-at="2021-01-07T03:04:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email6@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="653" started-at="2021-01-07T03:04:03Z" data-provider="readData" finished-at="2021-01-07T03:04:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email7@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="635" started-at="2021-01-07T03:04:04Z" data-provider="readData" finished-at="2021-01-07T03:04:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email8@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="635" started-at="2021-01-07T03:04:05Z" data-provider="readData" finished-at="2021-01-07T03:04:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email9@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="607" started-at="2021-01-07T03:04:05Z" data-provider="readData" finished-at="2021-01-07T03:04:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email10@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="588" started-at="2021-01-07T03:04:06Z" data-provider="readData" finished-at="2021-01-07T03:04:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email11@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="580" started-at="2021-01-07T03:04:06Z" data-provider="readData" finished-at="2021-01-07T03:04:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email12@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="688" started-at="2021-01-07T03:04:07Z" data-provider="readData" finished-at="2021-01-07T03:04:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email13@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="742" started-at="2021-01-07T03:04:08Z" data-provider="readData" finished-at="2021-01-07T03:04:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod13]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email14@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="789" started-at="2021-01-07T03:04:09Z" data-provider="readData" finished-at="2021-01-07T03:04:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod14]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email15@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="745" started-at="2021-01-07T03:04:09Z" data-provider="readData" finished-at="2021-01-07T03:04:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod15]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email16@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="656" started-at="2021-01-07T03:04:10Z" data-provider="readData" finished-at="2021-01-07T03:04:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password16]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod16]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email17@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="667" started-at="2021-01-07T03:04:11Z" data-provider="readData" finished-at="2021-01-07T03:04:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password17]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod17]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email18@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="640" started-at="2021-01-07T03:04:11Z" data-provider="readData" finished-at="2021-01-07T03:04:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password18]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod18]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email19@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="784" started-at="2021-01-07T03:04:12Z" data-provider="readData" finished-at="2021-01-07T03:04:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod19]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email20@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="744" started-at="2021-01-07T03:04:13Z" data-provider="readData" finished-at="2021-01-07T03:04:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod20]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email21@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:seleniumScripts.LoginPage@e6dfe1]" name="wikipagedata" duration-ms="830" started-at="2021-01-07T03:04:14Z" data-provider="readData" finished-at="2021-01-07T03:04:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password21]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[passwrod21]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email22@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+      </class> <!-- seleniumScripts.LoginPage -->
+      <class name="seleniumScripts.HomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:seleniumScripts.HomePage@90c451]" name="setup" is-config="true" duration-ms="9242" started-at="2021-01-07T03:03:35Z" finished-at="2021-01-07T03:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homapge(java.lang.String)[pri:0, instance:seleniumScripts.HomePage@90c451]" name="homapge" duration-ms="7392" started-at="2021-01-07T03:03:45Z" finished-at="2021-01-07T03:03:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homapge -->
+      </class> <!-- seleniumScripts.HomePage -->
+    </test> <!-- myTests -->
+  </suite> <!-- mySuite -->
+</testng-results>
